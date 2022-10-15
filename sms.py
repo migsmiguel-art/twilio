@@ -18,7 +18,7 @@ def create_text():
     from_=sender,
     body=sms
     
-    print(msg)
+    #print(msg)
     
     )
     
